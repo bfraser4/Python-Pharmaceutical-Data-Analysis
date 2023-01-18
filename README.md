@@ -1,8 +1,9 @@
-# Unit 5 Homework: The Power of Plots
+# Python (Pandas & Matplotlib) - The Power of Plots
 
 What good is data without a good plot to tell the story?
 
-In this homework assignment, you’ll apply what you've learned about Matplotlib and to a real-world situation and dataset.
+In this project, you’ll apply what you've learned about Matplotlib and to a real-world situation and dataset.
+
 ## Background
 
 You've just  joined Pymaceuticals Inc., a new pharmaceutical company that specializes in anti-cancer pharmaceuticals. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
@@ -73,8 +74,6 @@ Create two summary statistics DataFrames:
     
 2. Using Matplotlib, generate a box plot of the final tumor volume for all four treatment regimens. Highlight any potential outliers in the plot by changing their color and style.
 
-  **Hint**: All four box plots should be within the same figure. Use this [Matplotlib documentation page](https://matplotlib.org/gallery/pyplots/boxplot_demo_pyplot.html#sphx-glr-gallery-pyplots-boxplot-demo-pyplot-py) for help with changing the style of the outliers.
-
 ### Create a Line Plot and a Scatter Plot
 
 1. Select a mouse that was treated with Capomulin and generate a line plot of tumor volume vs. time point for that mouse.
@@ -108,20 +107,3 @@ Review all the figures and tables that you generated in this assignment. Write a
   * How do I add a label to a scatter plot?
 
   * Where in the DataFrame can I find the names that will go into the labels?
-
- 
-* Get help when you need it! Your instructional team is here to help.
-## Rubric
-
-[Unit 5 Homework Rubric](https://docs.google.com/document/d/1ZZ0lFGHqKwVdqjTCfynY2FSiswuOMBVi9An7oWeg344/edit?usp=sharing)
-
-- - -
-
-## References
-
-Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](https://www.mockaroo.com/)
-
-- - -
-
-© 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-
