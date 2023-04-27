@@ -2,7 +2,7 @@
 
 What good is data without a good plot to tell the story?
 
-In this project, you’ll apply what you've learned about Matplotlib and to a real-world situation and dataset.
+In this project, apply what you've learned about Matplotlib and to a real-world situation and dataset.
 
 ## Background
 
